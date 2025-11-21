@@ -7,6 +7,8 @@
         public string? Descripcion { get; set; }
         public string? Tipo_clima  { get; set; }
         public string? Genero { get; set; }
-        public int edad_recomendada { get; set; }
+        public string? edad_recomendada { get; set; }
+
+        public string? ImagenUrl { get; set; }
     }
 }

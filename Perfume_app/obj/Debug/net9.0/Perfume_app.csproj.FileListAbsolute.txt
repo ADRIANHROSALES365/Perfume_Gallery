@@ -95,4 +95,5 @@ C:\Users\ad_ri\source\repos\Perfume_app\Perfume_app\obj\Debug\net9.0\refint\Perf
 C:\Users\ad_ri\source\repos\Perfume_app\Perfume_app\obj\Debug\net9.0\Perfume_app.pdb
 C:\Users\ad_ri\source\repos\Perfume_app\Perfume_app\obj\Debug\net9.0\Perfume_app.genruntimeconfig.cache
 C:\Users\ad_ri\source\repos\Perfume_app\Perfume_app\obj\Debug\net9.0\ref\Perfume_app.dll
-C:\Users\ad_ri\source\repos\Perfume_app\Perfume_app\obj\Debug\net9.0\compressed\gabh8jzhno-6rp56ptdo4.gz
+C:\Users\ad_ri\source\repos\Perfume_app\Perfume_app\obj\Debug\net9.0\Perfume_app.sourcelink.json
+C:\Users\ad_ri\source\repos\Perfume_app\Perfume_app\obj\Debug\net9.0\compressed\gabh8jzhno-mrp7ms4tc3.gz
