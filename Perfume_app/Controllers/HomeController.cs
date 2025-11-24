@@ -1,7 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Perfume_app.Models;
-
 namespace Perfume_app.Controllers
 {
     public class HomeController : Controller
@@ -12,10 +11,10 @@ namespace Perfume_app.Controllers
         {
             _logger = logger;
         }
-
+        private string view1 = "Index";
         public IActionResult Index()
-        {
-            return View();
+        { 
+            return View(view1);
         }
 
         public IActionResult Privacy()

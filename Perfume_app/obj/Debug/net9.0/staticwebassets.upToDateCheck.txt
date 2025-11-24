@@ -1,7 +1,5 @@
-wwwroot\css\custom.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\img\perfumes_potion.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -63,6 +61,8 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\css\custom.css
+wwwroot\img\perfumes_potion.jpg
 C:\Users\ad_ri\source\repos\Perfume_app\Perfume_app\wwwroot\css\site.css
 C:\Users\ad_ri\source\repos\Perfume_app\Perfume_app\wwwroot\favicon.ico
 C:\Users\ad_ri\source\repos\Perfume_app\Perfume_app\wwwroot\js\site.js

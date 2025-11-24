@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|c:\\users\\ad_ri\\source\\repos\\perfume_app\\perfume_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|solutionrelative:perfume_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|c:\\users\\ad_ri\\source\\repos\\perfume_app\\perfume_app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|solutionrelative:perfume_app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|c:\\users\\ad_ri\\source\\repos\\perfume_app\\perfume_app\\views\\shared\\_searchoptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|solutionrelative:perfume_app\\views\\shared\\_searchoptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|c:\\users\\ad_ri\\source\\repos\\perfume_app\\perfume_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|solutionrelative:perfume_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|c:\\users\\ad_ri\\source\\repos\\perfume_app\\perfume_app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|solutionrelative:perfume_app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|c:\\users\\ad_ri\\source\\repos\\perfume_app\\perfume_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|solutionrelative:perfume_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|c:\\users\\ad_ri\\source\\repos\\perfume_app\\perfume_app\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|solutionrelative:perfume_app\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|c:\\users\\ad_ri\\source\\repos\\perfume_app\\perfume_app\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|solutionrelative:perfume_app\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|c:\\users\\ad_ri\\source\\repos\\perfume_app\\perfume_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|solutionrelative:perfume_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|c:\\users\\ad_ri\\source\\repos\\perfume_app\\perfume_app\\models\\homeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|c:\\users\\ad_ri\\source\\repos\\perfume_app\\perfume_app\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|solutionrelative:perfume_app\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|c:\\users\\ad_ri\\source\\repos\\perfume_app\\perfume_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|solutionrelative:perfume_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|c:\\users\\ad_ri\\source\\repos\\perfume_app\\perfume_app\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{375B59F5-DEE9-4E75-88C5-7932DCDCA0BB}|Perfume_app\\Perfume_app.csproj|solutionrelative:perfume_app\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +62,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Perfume_app\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Perfume_app\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T20:42:09.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Perfume_app\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Perfume_app\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T20:35:43.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\Program.cs",
+              "RelativeDocumentMoniker": "Perfume_app\\Program.cs",
+              "ToolTip": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\Program.cs",
+              "RelativeToolTip": "Perfume_app\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:10:21.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Perfume_app\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Perfume_app\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:45:05.624Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -56,14 +124,14 @@
               "RelativeDocumentMoniker": "Perfume_app\\Views\\Shared\\_searchoptions.cshtml",
               "ToolTip": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\Views\\Shared\\_searchoptions.cshtml",
               "RelativeToolTip": "Perfume_app\\Views\\Shared\\_searchoptions.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-21T19:25:39.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "HomeIndexViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\Models\\HomeIndexViewModel.cs",
               "RelativeDocumentMoniker": "Perfume_app\\Models\\HomeIndexViewModel.cs",
@@ -76,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "PerfumeDto.cs",
               "DocumentMoniker": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\Models\\PerfumeDto.cs",
               "RelativeDocumentMoniker": "Perfume_app\\Models\\PerfumeDto.cs",
@@ -84,25 +152,23 @@
               "RelativeToolTip": "Perfume_app\\Models\\PerfumeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T18:28:44.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T18:28:44.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "RepositorioPerfumes.cs",
               "DocumentMoniker": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\Services\\RepositorioPerfumes.cs",
               "RelativeDocumentMoniker": "Perfume_app\\Services\\RepositorioPerfumes.cs",
               "ToolTip": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\Services\\RepositorioPerfumes.cs",
               "RelativeToolTip": "Perfume_app\\Services\\RepositorioPerfumes.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T18:27:26.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T18:27:26.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Perfume_app.csproj",
               "DocumentMoniker": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\Perfume_app.csproj",
               "RelativeDocumentMoniker": "Perfume_app\\Perfume_app.csproj",
@@ -114,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "_Header.cshtml",
               "DocumentMoniker": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\Views\\Shared\\_Header.cshtml",
               "RelativeDocumentMoniker": "Perfume_app\\Views\\Shared\\_Header.cshtml",
@@ -122,7 +188,8 @@
               "RelativeToolTip": "Perfume_app\\Views\\Shared\\_Header.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T15:52:58.161Z"
+              "WhenOpened": "2025-11-19T15:52:58.161Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -134,11 +201,12 @@
               "RelativeToolTip": "Perfume_app\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T15:38:02.304Z"
+              "WhenOpened": "2025-11-19T15:38:02.304Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "custom.css",
               "DocumentMoniker": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\wwwroot\\css\\custom.css",
               "RelativeDocumentMoniker": "Perfume_app\\wwwroot\\css\\custom.css",
@@ -150,13 +218,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Perfume_app\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\ad_ri\\source\\repos\\Perfume_app\\Perfume_app\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Perfume_app\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-19T15:26:52.385Z",
               "EditorCaption": ""
